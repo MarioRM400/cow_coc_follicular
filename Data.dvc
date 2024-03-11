@@ -1,6 +1,11 @@
 outs:
-- md5: 9868589dbbe654f3cd77ca1c943e6c6b.dir
-  size: 119990462
-  nfiles: 1
-  hash: md5
+- hash: md5
   path: Data
+  files:
+  - relpath: data.zip
+    md5: 150cc0eee783d7a5b33217b2490b3c05
+    size: 119990462
+    cloud:
+      storage:
+        etag: 088cfcebd4dfec84031001
+        version_id: '1710178577350156'
