@@ -1,0 +1,5 @@
+names:
+  0: cow_coc
+path: C:\ConceivableProjects\cow_coc_follicular\v0.0.1\Data
+train: images\train
+val: images\val
